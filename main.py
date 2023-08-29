@@ -1,3 +1,4 @@
+#CatBot, made by Andreuwsh, 2023.
 import requests
 from config import YOURBOTTOKEN
 import telebot
